@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<color name="buttonBackground">#ffac81</color>
+<color name="buttonText">#FFFFFF</color>
+<color name="background">#ff928b</color>
+<color name="titleText">#efe9ae</color>
+<color name="inputText">#cdeac0</color>
+<color name="operationText">#9ec0d4</color>
+<color name="equalText">#de827a</color>
+<color name="resultText">#90f1ef</color>
+    <color name="sss">#b9d8d9</color>
+</resources>
